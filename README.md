@@ -1,4 +1,4 @@
-# JacoriousSmith
+# Jacorious Smith
 
 # 🛡️ Jay's Cybersecurity Journey 🛡️
 
