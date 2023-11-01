@@ -22,7 +22,7 @@ Currently, I'm on a quest to sharpen my skills, and I'm excited about the journe
 
 - **Certifications:** Network+ • Stellar Cyber for SOC Analysts
 - **Systems:** Windows 10/11 • Linux • Stellar Cyber • Splunk • Active Directory • Microsoft Intune • Jira
-- **Languages:** Javascript • Python • Powershell • PostgreSQL
+- **Languages:** Javascript • Python • Powershell 
 
 ## 📚 Education
 
