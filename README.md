@@ -22,11 +22,11 @@ Currently, I'm on a quest to sharpen my skills through labs and project.
 
 - [Cybersecurity Home Lab Setup](https://jayb133.github.io/Cybersecurity-Home-lab-setup/)
   
-## Skills
+## Certifications
 
-- **Certifications:** Security+ • Network+ • Stellar Cyber for SOC Analysts
-- **Systems:** Windows 10/11 • Linux • Stellar Cyber • Splunk • Active Directory • Microsoft Intune • Jira
-- **Languages:** Javascript • Python • Powershell 
+- Security+ 
+- Network+ 
+- Stellar Cyber For SOC Analysts 
 
 ## 📚 Education
 
