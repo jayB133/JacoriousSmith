@@ -16,17 +16,19 @@ Hey there, I'm Jacorious but If you're viewing my page you can call me Jay! I ma
 
 ## 🌐 Learning Journey
 
-Currently, I'm on a quest to sharpen my skills, and I'm excited about the journey ahead. I'm actively pursuing the Security+ certification, and I can't wait to apply my knowledge in real-world projects. Stay tuned for exciting updates!
+Currently, I'm on a quest to sharpen my skills through labs and project. 
+
+## Cyber Security Projects/Labs
 
 ## Skills
 
-- **Certifications:** Network+ • Stellar Cyber for SOC Analysts
+- **Certifications:** Security+ • Network+ • Stellar Cyber for SOC Analysts
 - **Systems:** Windows 10/11 • Linux • Stellar Cyber • Splunk • Active Directory • Microsoft Intune • Jira
 - **Languages:** Javascript • Python • Powershell 
 
 ## 📚 Education
 
-- **Boise State University:** BS Cyber Operations and Resilience, May 2024
+- **Boise State University:** BS Cyber Operations and Resilience, Apr 2024
 - **Code Platoon:** Full-Stack Bootcamp, Feb 2023
 - **Community College of the Air Force:** AAS in Bioenvironmental Engineering Technology, Feb 2021
 
