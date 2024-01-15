@@ -20,7 +20,7 @@ Currently, I'm on a quest to sharpen my skills through labs and project.
 
 ## Cyber Security Projects/Labs
 
-- [Cybersecurity Home Lab Setup](https://github.com/jayB133/Cybersecurity-Home-lab-setup/tree/main)
+- [Cybersecurity Home Lab Setup](https://jayb133.github.io/Cybersecurity-Home-lab-setup/)
   
 ## Skills
 
