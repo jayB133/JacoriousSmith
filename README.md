@@ -35,6 +35,6 @@ Currently, I'm on a quest to sharpen my skills through labs and project.
 
 ## Let's Connect
 
-If you share any of my interests, want to discuss cybersecurity, or just want to connect, feel free to reach out on [LinkedIn](www.linkedin.com/in/jacorious-smith-752a50249) or drop me an email at Jacoriouss@gmail.com.
+If you share any of my interests, want to discuss cybersecurity, or just want to connect, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/jacorious-smith-752a50249/) or drop me an email at Jacoriouss@gmail.com.
 
 May the code be with you! 🚀
