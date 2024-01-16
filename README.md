@@ -17,8 +17,6 @@ Hey there, I'm Jacorious but If you're viewing my page you can call me Jay! I'm 
 
 **Other Tools:** Nmap, Nessus, Autopsy, Snort, Metasploit, Burp Suite
 
-**Cloud Security:** Azure Security Center, Azure Sentinel
-
 **Frameworks:** NIST CSF, HIPAA, PCI-DSS
 
 **Platforms & Operating Systems:** Windows OS, Windows Server, Linux, Microsoft Azure, Office 365
