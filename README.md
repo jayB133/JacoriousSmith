@@ -11,11 +11,9 @@ Hey there, I'm Jacorious but If you're viewing my page you can call me Jay! I'm 
 
 **Identity & Access Management:** Active Directory Azure AD, Multi Factor Authentication, Microsoft Intune
 
-**Threat Detection & Incident Response:** Stellar Cyber, Splunk, Azure Sentinel, Wireshark
+**Threat Detection & Incident Response:** Stellar Cyber, Splunk, Wireshark, Palo Alto
 
-**Cloud Security:** Azure Security Center, Azure Sentinel
-
-**Other Tools:** Nmap, Nessus, Autopsy, Snort, Metasploit, Burp Suite
+**Other Tools:** Nmap, Nessus, Autopsy, Snort, Metasploit, Burp Suite, Docker, Terraform
 
 **Frameworks:** NIST CSF, HIPAA, PCI-DSS
 
@@ -32,7 +30,8 @@ Hey there, I'm Jacorious but If you're viewing my page you can call me Jay! I'm 
 ## Certifications
 
 - Security+ 
-- Network+ 
+- Network+
+- CySA+
 - Stellar Cyber For SOC Analysts 
 
 ## 📚 Education
